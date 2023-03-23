@@ -1,3 +1,3 @@
 # CareerPath
 career path
-https://github.com/zakuuya/CareerPath
+https://github.com/zakuuya/careerpath
